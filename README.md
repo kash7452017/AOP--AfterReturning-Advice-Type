@@ -111,7 +111,7 @@ public class AfterReturningDemoApp {
 >```
 >```
 >@Pointcut("forDaoPackage()")
-	public void forDaoPackageNoGetterSetter() {}
+>public void forDaoPackageNoGetterSetter() {}
 >```
 >Pointcut定義時，還可以使用&&、||、! 這三個運算
 >```
